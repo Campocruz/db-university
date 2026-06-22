@@ -13,3 +13,26 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 
 Utilizzare https://www.drawio.com/ per la creazione dello schema.
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
+
+# ESERCIZIO 2
+
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query di seguito. 
+
+Cosa consegnare?
+Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
+
+Query con Select
+  - Selezionare tutti gli studenti nati nel 1990 (160)
+  - Selezionare tutti i corsi che valgono più di 10 crediti (479)
+  - Selezionare tutti gli studenti che hanno più di 30 anni
+  - Selezionare tutti i corsi del primo semestre del primo anno di un qualsiasi corso di laurea (286)
+  - Selezionare tutti gli appelli d'esame che avvengono nel pomeriggio (dopo le 14) del 20/06/2020 (21)
+  - Selezionare tutti i corsi di laurea magistrale (38)
+  - Da quanti dipartimenti è composta l'università? (12)
+  - Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
+
+Query con Grup by
+  - Contare quanti iscritti ci sono stati ogni anno
+  - Contare gli insegnanti che hanno l'ufficio nello stesso edificio
+  - Calcolare la media dei voti di ogni appello d'esame
+  - Contare quanti corsi di laurea ci sono per ogni dipartimento
